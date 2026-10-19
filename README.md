@@ -3,8 +3,8 @@ graphic designer, video producer, but a dev for making my intrussive ideas a rea
 ---
 ## Creative tools
 - [PS Batch Artboards Renamer](https://github.com/ciroleguia/ps-artboard-renamer)
+- [Artlist Toolbox](https://github.com/ciroleguia/ArtlistToolbox)
 ## WIP projects
-- Artlist Music Downloader (Chromium Extension)
 - Trello's board JSON filter (local webapp)
 - Apple Health AI Analysis
 - AI music finder extension for Final Cut Pro
